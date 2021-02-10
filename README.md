@@ -2,6 +2,8 @@
 Starling Developer Connect API: Nest Camera Web Dashboard Example. Demonstrates connecting to the SDC API, and displaying
 a dashboard of all your cameras with periodic snapshots.
 
+Requires a [Starling Home Hub](https://starlinghome.io) with firmware 8.0 or above.
+
 # Create an SDC API key for this app
 1. Go to `setup.starlinghome.io` in your browser
 2. Go to the *Starling Developer Connect* section, and make sure the HTTP server is enabled
